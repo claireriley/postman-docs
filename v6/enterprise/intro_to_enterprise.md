@@ -29,6 +29,6 @@ In addition to SSO, audit logs, and extended support and billing, the Enterprise
 * [Dedicated IP addresses](/docs/postman/monitors/intro_monitors#monitoring-resources-in-multiple-regions){:target="_blank"} for API monitoring.
 
 
-Want to learn more about Postman Enterprise? Contact [Enterprise support](http://pages.getpostman.com/Enterprise-Sales_Contact-Us.html){:target="_blank"}. 
+Want to learn more about Postman Enterprise? Contact us [here](http://pages.getpostman.com/Enterprise-Sales_Contact-Us.html){:target="_blank"}. 
 
 
