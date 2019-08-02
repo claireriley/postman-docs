@@ -12,7 +12,7 @@ Postman provides Enterprise users with:
 
 * Single Sign-On (SSO): Access to the company’s Postman instance based on the customer’s existing identity management workflow. Postman Enterprise currently supports multiple SSO providers – Okta, OneLogin, Duo, Ping Identity, AD FS, and GSuite. Postman provides SAML 2.0-compliant identity provider support. 
 
-* Guest Accounts: Share Collections privately with collaborators outside of your Postman team.
+* Guest Accounts: Share collections privately with collaborators outside of your Postman team.
 
 * Audit logs: Ability to track activities within a team. Postman Enterprise users can use audit logs to review changes in team management, billing, and security settings.
 
