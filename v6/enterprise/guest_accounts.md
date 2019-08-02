@@ -56,3 +56,5 @@ Locate the appropriate collection in the left-hand sidebar, select the "..." to 
 #### Removing guests from Team
 
 In the [Team page](https://go.postman.co/team), you will find guests listed at the bottom. Locate the guest in question and hover your cursor over their name to bring up a trash can. Click this, then "Confirm". They will no longer have access to any collections you had shared with them previously.
+
+[Insert screenshot of removing guest from team]
