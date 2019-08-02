@@ -9,9 +9,9 @@ warning: false
 Audit logs is an Enterprise-only feature that lists important team events. An admin can review audit logs to determine:
 
 * When users were added to the team.
-* When guests were added to a team workspace.
+* When guests were added to a team.
 * When users received an invitation to a team. 
-* When guests received an invitation to a team workspace.
+* When guests received an invitation to a team.
 * Which user performed a specific action.
 
 Audit logs currently include events for team management, billing, and security. In the future, we'll enable events for publishing documentation, creating API keys, and creating monitors.
@@ -39,7 +39,7 @@ The table below lists currently logged events.
 | Added Domain   | A custom domain was added to your team. (You can use custom domains to publish documentation.)  |
 | Deleted Domain  | A custom domain was deleted from your team.  |
 | Added Member   | A user joined your team.   |
-| Added Guest   | A guest joined a team workspace.   |
+| Added Guest   | A guest joined a team.   |
 | Cancelled Invite   | An invitation for a user was cancelled.   |
 | Cancelled Guest Invite   | An invitation for a guest was cancelled.   |
 | Custom auth scheme created| 	A new SSO scheme was added to your team.  |
